@@ -1,4 +1,4 @@
-# Penugasan-Backend-Open-Recruitment-2025
+# Penugasan-Backend-Oprec-OMAHTI-2025/2026
 
 ## Database nabil_db
 ### Membuat database pada postgresql
